@@ -28,4 +28,4 @@ After processing it:
 
 **0 1 0 0 0 1 ... 1**
 
-Indicating the first column whether if it is malicious **(1)** or not **(0)**
+Indicating the first column whether if it is malicious **(1)** or not **(0)** and the following numbers the existance of each of the features from 1 to 531
